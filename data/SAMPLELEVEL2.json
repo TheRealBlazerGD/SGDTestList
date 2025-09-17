@@ -1,12 +1,7 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
-    "records": [
-    ]
-}
+    "Link": "https://tuxat.itch.io/scratch-tidal-wave",
+    "name": "Scratch Tidal Wave",
+    "author": "Thomaslyu",
+    "creators": ["Thomaslyu"],
+    "verifier": "Thomaslyu",
+    "verification": "hhttps://www.youtube.com/watch?v=ihPDCXM68K8",
